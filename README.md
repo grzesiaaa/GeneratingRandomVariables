@@ -5,12 +5,15 @@
 ### Description
 
 This is a report for "Symulacje komputerowe" course at Politechnika Wrocławska, which aim was to generate random variables using some popular methods such as:
-- inverse CDF;
-- acceptance-rejection;
-- Box-Muller;
-- polar;
+- inverse CDF
+- acceptance-rejection
+- Box-Muller
+- polar
 - composition
-and check their correctness. Another tasks was to describe and test pseudo-random number generator. 
+
+and check their correctness. 
+
+Another tasks was to describe and test pseudo-random number generator. 
 Detailed instructions are in instruction.pdf file.
 
 ### Technologies
